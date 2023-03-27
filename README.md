@@ -12,6 +12,11 @@ Menambahkan Data
 ![Menambahkan data](https://user-images.githubusercontent.com/95957498/227997413-ce79411f-63c7-42aa-99ac-7a2fc85cbc03.jpg)
 
 
+Bila data kosong
+
+![image](https://user-images.githubusercontent.com/95957498/228000808-503385e4-5bf6-4de4-8f35-5d985ec447ed.png)
+
+
 Select Data
 
 ![Selection Data](https://user-images.githubusercontent.com/95957498/227997505-106997a4-2302-47e1-b1b4-46c1bb3698a5.jpg)
